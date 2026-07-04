@@ -1,7 +1,7 @@
 # Day 01 – Python Interview MCQs & Practice Programs
 
 ## 📅 Date
-04 July 2026
+01 July 2026
 
 ## 📖 Overview
 This folder contains the topics, interview-based MCQs, coding exercises, and practice programs completed during **Day 01** of the **Software Training Course** conducted by my college.
