@@ -1,7 +1,7 @@
 # Day 02 – Python OOPs (Object-Oriented Programming)
 
 ## 📅 Date
-05 July 2026
+02 July 2026
 
 ## 📖 Overview
 This folder contains the concepts, examples, and practice programs covered during **Day 02** of the **Software Training Course** conducted by my college.
